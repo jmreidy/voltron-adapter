@@ -1,6 +1,6 @@
 {
   "name": "voltron-adapter",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "A data adapter plugin for VoltronModels",
   "main": "index.js",
   "scripts": {
